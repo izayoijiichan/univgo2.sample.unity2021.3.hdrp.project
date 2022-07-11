@@ -8,7 +8,7 @@ ___
 |name|version|
 |:--|:--:|
 |Unity|2021.3.0f1|
-|UniVGO|2.4.9|
+|UniVGO|2.4.10|
 |VGO|2.4|
 
 ___
@@ -53,7 +53,7 @@ ___
 [Unity 2021.3.0f1 and URP project](https://github.com/izayoijiichan/univgo2.sample.unity2021.3.urp.project)
 
 ___
-Last updated: 20 May, 2022  
+Last updated: 11 July, 2022  
 Editor: Izayoi Jiichan
 
 *Copyright (C) 2022 Izayoi Jiichan. All Rights Reserved.*
